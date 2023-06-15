@@ -162,18 +162,6 @@
                     "secondSemesterCredits": 1,
                     "note": null,
                     "answerTheDetail": false
-                },
-                {
-                    "id": 389,
-                    "created": "2023-06-15T15:52:44.152695",
-                    "updated": "2023-06-15T15:52:44.152711",
-                    "curriculum_ds": 251,
-                    "subjectName": "경제와 부",
-                    "subjectCredits": 1,
-                    "firstSemesterCredits": 1,
-                    "secondSemesterCredits": 0,
-                    "note": null,
-                    "answerTheDetail": false
                 }
             ]
         },
@@ -302,18 +290,6 @@
                     "subjectCredits": 2,
                     "firstSemesterCredits": 2,
                     "secondSemesterCredits": 0,
-                    "note": null,
-                    "answerTheDetail": false
-                },
-                {
-                    "id": 291,
-                    "created": "2023-02-13T16:48:27.461104",
-                    "updated": "2023-06-15T15:52:44.107550",
-                    "curriculum_ds": 203,
-                    "subjectName": "디지털 혁명",
-                    "subjectCredits": 2,
-                    "firstSemesterCredits": 1,
-                    "secondSemesterCredits": 1,
                     "note": null,
                     "answerTheDetail": false
                 }
