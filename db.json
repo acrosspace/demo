@@ -244,54 +244,6 @@
                     "secondSemesterCredits": 1,
                     "note": null,
                     "answerTheDetail": false
-                },
-                {
-                    "id": 374,
-                    "created": "2023-06-15T15:52:44.125084",
-                    "updated": "2023-06-15T15:52:44.125099",
-                    "curriculum_ds": 203,
-                    "subjectName": "슬기로운 취미 생활",
-                    "subjectCredits": 2,
-                    "firstSemesterCredits": 1,
-                    "secondSemesterCredits": 1,
-                    "note": null,
-                    "answerTheDetail": false
-                },
-                {
-                    "id": 375,
-                    "created": "2023-06-15T15:52:44.126864",
-                    "updated": "2023-06-15T15:52:44.126880",
-                    "curriculum_ds": 203,
-                    "subjectName": "운동과 건강",
-                    "subjectCredits": 2,
-                    "firstSemesterCredits": 1,
-                    "secondSemesterCredits": 1,
-                    "note": null,
-                    "answerTheDetail": false
-                },
-                {
-                    "id": 376,
-                    "created": "2023-06-15T15:52:44.128690",
-                    "updated": "2023-06-15T15:52:44.128706",
-                    "curriculum_ds": 203,
-                    "subjectName": "우리의 은하",
-                    "subjectCredits": 2,
-                    "firstSemesterCredits": 1,
-                    "secondSemesterCredits": 1,
-                    "note": null,
-                    "answerTheDetail": false
-                },
-                {
-                    "id": 377,
-                    "created": "2023-06-15T15:52:44.130608",
-                    "updated": "2023-06-15T15:52:44.130624",
-                    "curriculum_ds": 203,
-                    "subjectName": "경영 철학",
-                    "subjectCredits": 2,
-                    "firstSemesterCredits": 2,
-                    "secondSemesterCredits": 0,
-                    "note": null,
-                    "answerTheDetail": false
                 }
             ]
         }
